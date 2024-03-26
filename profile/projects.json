@@ -1,0 +1,32 @@
+{
+    "projects" : [
+
+        {
+            "image" : "images/projects/dontsick1.png",
+            "title": "아프지마",
+            "bodyText": "세종시에 있는 병원과 약국의 정보를 보여주고 병원의 예약 기능과 영양제 구입, 사용자들의 정보공유가 가능한 플랫폼을 구축하였습니다.",
+            "links": [
+                {
+                    "text": "GitHub Back",
+                    "href": "https://github.com/Seunggyo/do_not_get_sick_back"
+                },
+                {
+                    "text": "GitHub Front",
+                    "href": "https://github.com/Seunggyo/prj2-fe"
+                },
+                {
+                    "text": "Live",
+                    "href": "http://15.165.160.159:8082/"
+                }
+            ],
+            "tags" : [
+                "Java",
+                "Spring",
+                "MariaDB",
+                "React",
+                "MyBatis",
+                "Chakra UI"
+            ]
+        }
+    ]
+}

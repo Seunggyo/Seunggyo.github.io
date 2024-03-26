@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "instagram",
+            "href": "https://www.instagram.com/seunggyo__/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/Seunggyo"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:tmdry99@gmail.com"
+        }
+    ]
+}

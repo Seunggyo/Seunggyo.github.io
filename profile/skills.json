@@ -1,0 +1,53 @@
+{
+    "intro": "저는 새로운 도전과 기술을 마다하지 않는 개발자 입니다.\n\n밑에 있는 기술들은 제가 할수있는 기술들중의 일부 입니다.",
+    "skills": [{
+
+            "title": "Languages & Databases",
+            "items" : [
+
+                {
+                    "icon": "images/skills/java.png",
+                    "title": "Java"
+                },
+                {
+                    "icon": "images/skills/js.png",
+                    "title": "JavaScript"
+                },
+                {
+                    "icon": "images/skills/mariadb.png",
+                    "title": "MariaDB"
+                }
+        ]},
+        {
+            "title": "Frameworks & Technologies",
+            "items" : [
+                {
+                    "icon": "images/skills/react.png",
+                    "title": "React"
+                },
+                {
+                    "icon": "images/skills/spring.png",
+                    "title": "Spring"
+
+                },
+                {
+                    "icon": "images/skills/mybatis.png",
+                    "title": "MyBatis"
+                }
+
+            ]
+        },
+        {
+            "title" : "Tools & Platforms",
+            "items": [
+                {
+                    "icon": "images/skills/git.png",
+                    "title": "Git"
+                },
+                {
+                    "icon": "images/skills/intellij.png",
+                    "title": "IntelliJ"
+                }
+            ]
+    }
+]}

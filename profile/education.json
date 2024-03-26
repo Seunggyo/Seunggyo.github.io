@@ -1,0 +1,26 @@
+{
+    "education":[
+        {
+            "title": "2023년 07월 - 2024년 02월",
+            "cardTitle": "자바(JAVA)기반 풀스택 개발자 취업과정",
+            "cardSubtitle": "중앙정보처리학원",
+            "icon": {
+                "src": "images/education/chungang.png"
+            }
+        },
+        {
+            "title": "2017년 03월 - 2023년 08월",
+            "cardTitle": "국제비즈니스어학부 일어전공",
+            "cardSubtitle":"서경대학교",
+            "cardDetailedText": "졸업",
+            "icon" : {
+                "src": "images/education/seokyeong.png"
+            }
+        },
+        {
+            "title": "2014년 03월 - 2017년 02월",
+            "cardSubtitle":"신정고등학교",
+            "cardDetailedText": "졸업"
+        }
+    ]
+}
